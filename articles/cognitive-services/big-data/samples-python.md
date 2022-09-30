@@ -160,10 +160,10 @@ display(pipeline.transform(bingParameters))
 | url |
 |:-------------------------------------------------------------------------------------------------------------------|
 | https://iheartintelligence.com/wp-content/uploads/2019/01/powerful-quotes-martin-luther-king-jr.jpg      |
-| http://everydaypowerblog.com/wp-content/uploads/2014/01/Martin-Luther-King-Jr.-Quotes-16.jpg             |
+| https://www.invajy.com/wp-content/uploads/2022/01/Martin-Luther-King-Jr-Quote.jpg                        |
 | http://www.sofreshandsogreen.com/wp-content/uploads/2012/01/martin-luther-king-jr-quote-sofreshandsogreendotcom.jpg |
 | https://everydaypowerblog.com/wp-content/uploads/2014/01/Martin-Luther-King-Jr.-Quotes-18.jpg            |
-| https://tsal-eszuskq0bptlfh8awbb.stackpathdns.com/wp-content/uploads/2018/01/MartinLutherKingQuotes.jpg  |
+| https://www.invajy.com/wp-content/uploads/2022/01/Martin-Luther-King-Quotes.jpg                          |
 
 
 ## Speech-to-Text sample
